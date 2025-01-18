@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\models\\devicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:models\\devicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\devicecategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\devicecategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\controllers\\devicecategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:controllers\\devicecategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\home\\privacy2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\home\\privacy2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\devicecategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\devicecategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\devicecategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\devicecategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab2\\lab2_vothienvu_cse422\\lab2_vothienvu_cse422.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D76800D4-193E-4D2E-986B-B4933BD3D22E}|Lab2_VoThienVu_CSE422.csproj|solutionrelative:lab2_vothienvu_cse422.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Index.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:33:15.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:31:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategory\\Index.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Index.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:30:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAlwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:27:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceCategoryController.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\DeviceCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceCategoryController.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\DeviceCategoryController.cs",
+              "RelativeToolTip": "Controllers\\DeviceCategoryController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:21.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceCategory.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\DeviceCategory.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceCategory.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\DeviceCategory.cs",
+              "RelativeToolTip": "Models\\DeviceCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:02.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:34:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy2.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Privacy2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy2.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Privacy2.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:34:55.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:34:58.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:32:10.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Edit.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Device\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:33:21.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategory\\Edit.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategory\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:34:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DeviceCategory\\Create.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\DeviceCategory\\Create.cshtml",
+              "RelativeToolTip": "Views\\DeviceCategory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:30:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Create.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:30:08.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:32:19.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:31:04.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:32:01.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:31:48.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:29:12.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:27:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:47:21.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T14:02:16.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T14:02:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lab2_VoThienVu_CSE422",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
+              "RelativeDocumentMoniker": "Lab2_VoThienVu_CSE422.csproj",
+              "ToolTip": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
+              "RelativeToolTip": "Lab2_VoThienVu_CSE422.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T13:47:08.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

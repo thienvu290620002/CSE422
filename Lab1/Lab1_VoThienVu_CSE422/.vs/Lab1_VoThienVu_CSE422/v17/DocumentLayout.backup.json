@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|d:\\cse422\\lab1\\lab1_vothienvu_cse422\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|d:\\cse422\\lab1\\lab1_vothienvu_cse422\\source\\problem1\\medianfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|solutionrelative:source\\problem1\\medianfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|d:\\cse422\\lab1\\lab1_vothienvu_cse422\\source\\problem2\\divider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|solutionrelative:source\\problem2\\divider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|d:\\cse422\\lab1\\lab1_vothienvu_cse422\\source\\problem3\\wordsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C858127F-C560-44BA-9378-FF4A2A26B402}|Lab1_VoThienVu_CSE422.csproj|solutionrelative:source\\problem3\\wordsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordSearch.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem3\\WordSearch.cs",
+              "RelativeDocumentMoniker": "Source\\Problem3\\WordSearch.cs",
+              "ToolTip": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem3\\WordSearch.cs",
+              "RelativeToolTip": "Source\\Problem3\\WordSearch.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:34:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Divider.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem2\\Divider.cs",
+              "RelativeDocumentMoniker": "Source\\Problem2\\Divider.cs",
+              "ToolTip": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem2\\Divider.cs",
+              "RelativeToolTip": "Source\\Problem2\\Divider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:26:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedianFinder.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem1\\MedianFinder.cs",
+              "RelativeDocumentMoniker": "Source\\Problem1\\MedianFinder.cs",
+              "ToolTip": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Source\\Problem1\\MedianFinder.cs",
+              "RelativeToolTip": "Source\\Problem1\\MedianFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:19:20.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422\\Lab1\\Lab1_VoThienVu_CSE422\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:07:35.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

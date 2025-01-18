@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lab3_VoThienVu_CSE422": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

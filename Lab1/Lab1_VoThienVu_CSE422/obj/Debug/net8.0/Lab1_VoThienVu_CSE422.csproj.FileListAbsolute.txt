@@ -1,0 +1,14 @@
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\bin\Debug\net8.0\Lab1_VoThienVu_CSE422.exe
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\bin\Debug\net8.0\Lab1_VoThienVu_CSE422.deps.json
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\bin\Debug\net8.0\Lab1_VoThienVu_CSE422.runtimeconfig.json
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\bin\Debug\net8.0\Lab1_VoThienVu_CSE422.dll
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\bin\Debug\net8.0\Lab1_VoThienVu_CSE422.pdb
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.AssemblyInfoInputs.cache
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.AssemblyInfo.cs
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.csproj.CoreCompileInputs.cache
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.dll
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\refint\Lab1_VoThienVu_CSE422.dll
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.pdb
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\Lab1_VoThienVu_CSE422.genruntimeconfig.cache
+D:\CSE422\Lab1\Lab1_VoThienVu_CSE422\obj\Debug\net8.0\ref\Lab1_VoThienVu_CSE422.dll

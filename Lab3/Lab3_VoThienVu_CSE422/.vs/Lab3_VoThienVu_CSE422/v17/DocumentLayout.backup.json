@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|d:\\cse422_git\\lab3\\lab3_vothienvu_cse422\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC79CDA-DCB6-4982-B9A0-DEF8C0CBB825}|Lab3_VoThienVu_CSE422.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationService.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\NotificationService.cs",
+              "RelativeToolTip": "Models\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:00:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumMember.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\PremiumMember.cs",
+              "RelativeDocumentMoniker": "Models\\PremiumMember.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\PremiumMember.cs",
+              "RelativeToolTip": "Models\\PremiumMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:20.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\ReturnTransaction.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\ReturnTransaction.cs",
+              "RelativeToolTip": "Models\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowTransaction.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\BorrowTransaction.cs",
+              "RelativeToolTip": "Models\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryCard.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "Models\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:34.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Models\\Library.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Library.cs",
+              "RelativeToolTip": "Models\\Library.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:59:02.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMemberActions.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Interfaces\\IMemberActions.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMemberActions.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Interfaces\\IMemberActions.cs",
+              "RelativeToolTip": "Interfaces\\IMemberActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:00:25.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrintable.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:00:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422_Git\\Lab3\\Lab3_VoThienVu_CSE422\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:57:06.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
