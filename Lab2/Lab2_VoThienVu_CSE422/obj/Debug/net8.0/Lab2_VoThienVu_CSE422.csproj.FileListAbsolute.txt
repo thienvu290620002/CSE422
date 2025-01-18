@@ -335,3 +335,4 @@ D:\CSE422_Git\Lab2\Lab2_VoThienVu_CSE422\obj\Debug\net8.0\refint\Lab2_VoThienVu_
 D:\CSE422_Git\Lab2\Lab2_VoThienVu_CSE422\obj\Debug\net8.0\Lab2_VoThienVu_CSE422.pdb
 D:\CSE422_Git\Lab2\Lab2_VoThienVu_CSE422\obj\Debug\net8.0\Lab2_VoThienVu_CSE422.genruntimeconfig.cache
 D:\CSE422_Git\Lab2\Lab2_VoThienVu_CSE422\obj\Debug\net8.0\ref\Lab2_VoThienVu_CSE422.dll
+D:\CSE422\Lab2\Lab2_VoThienVu_CSE422\obj\Debug\net8.0\Lab2_VoThienVu_CSE422.sourcelink.json

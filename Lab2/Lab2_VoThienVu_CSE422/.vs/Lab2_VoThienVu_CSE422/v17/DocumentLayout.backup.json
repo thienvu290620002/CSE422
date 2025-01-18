@@ -130,8 +130,7 @@
               "RelativeToolTip": "Views\\Device\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:33:15.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:33:15.029Z"
             },
             {
               "$type": "Document",
@@ -155,8 +154,7 @@
               "RelativeToolTip": "Views\\DeviceCategory\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T14:30:16.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:30:16.105Z"
             },
             {
               "$type": "Document",
@@ -166,7 +164,7 @@
               "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
               "ToolTip": "D:\\CSE422\\Lab2\\Lab2_VoThienVu_CSE422\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "Controllers\\DeviceController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAlwEMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAlwFAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T14:29:43.166Z",
               "EditorCaption": ""
@@ -181,8 +179,7 @@
               "RelativeToolTip": "Models\\Device.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:27:19.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:27:19.067Z"
             },
             {
               "$type": "Document",
@@ -194,8 +191,7 @@
               "RelativeToolTip": "Controllers\\DeviceCategoryController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowAkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:26:21.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:26:21.106Z"
             },
             {
               "$type": "Document",
@@ -207,8 +203,7 @@
               "RelativeToolTip": "Models\\DeviceCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:29:02.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:29:02.942Z"
             },
             {
               "$type": "Document",

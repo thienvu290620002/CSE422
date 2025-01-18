@@ -4827,11 +4827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
+      "projectUniqueName": "D:\\CSE422\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
       "projectName": "Lab2_VoThienVu_CSE422",
-      "projectPath": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
+      "projectPath": "D:\\CSE422\\Lab2\\Lab2_VoThienVu_CSE422\\Lab2_VoThienVu_CSE422.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\CSE422_Git\\Lab2\\Lab2_VoThienVu_CSE422\\obj\\",
+      "outputPath": "D:\\CSE422\\Lab2\\Lab2_VoThienVu_CSE422\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
