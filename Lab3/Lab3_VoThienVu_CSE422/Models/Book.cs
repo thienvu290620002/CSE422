@@ -4,13 +4,24 @@ using System;
 
 namespace Lab3_VoThienVu_CSE422.Models
 {
-    internal class Book : IPrintable
+    public class Book : IPrintable
     {
         private string _isbn;
         private string _title;
         private string _author;
         private int _year;
         private int _copiesAvailable;
+
+
+        public Book(string isbn, string title, string author, int year, int copiesAvailable)
+        {
+            _isbn = isbn;
+            Title = title;
+            Author = author;
+            Year = year;
+            CopiesAvailable = copiesAvailable;
+
+        }
 
         public string ISBN
         {
@@ -51,15 +62,14 @@ namespace Lab3_VoThienVu_CSE422.Models
                 _copiesAvailable = value;
             }
         }
+        public void PrintDetails()
+        {
+            DisplayInfo();
+        }
 
         public void DisplayInfo()
         {
             Console.WriteLine($"ISBN: {ISBN}, Title: {Title}, Author: {Author}, Year: {Year}, Copies Available: {CopiesAvailable}");
-        }
-
-        public void PrintDetails()
-        {
-            DisplayInfo();
         }
     }
 }

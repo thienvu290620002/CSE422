@@ -4,10 +4,15 @@ using System;
 
 namespace Lab3_VoThienVu_CSE422.Models
 {
-    internal class ReturnTransaction : Transaction
+    public class ReturnTransaction : Transaction
     {
         public Book BookReturned { get; set; }
 
+        public ReturnTransaction(string transactionID, DateTime transactionDate, Member member, Book bookReturned)
+           : base(transactionID, transactionDate, member) // Call the base class constructor
+        {
+            BookReturned = bookReturned;
+        }
         public override void Execute()
         {
             // Logic for returning a book

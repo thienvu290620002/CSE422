@@ -4,12 +4,12 @@ using System.Collections.Generic;
 
 namespace Lab3_VoThienVu_CSE422.Models
 {
-    internal class Library
+    public class Library
     {
         public string LibraryName { get; set; }
         public List<Book> Books { get; set; }
         public List<Member> Members { get; set; }
-
+        public event Action<Book, Member> OnBookBorrowed;
         // Constructor
         public Library(string libraryName)
         {
@@ -17,19 +17,17 @@ namespace Lab3_VoThienVu_CSE422.Models
             Books = new List<Book>();
             Members = new List<Member>();
         }
-
-        // Method to add a book
         public void AddBook(Book book)
         {
             Books.Add(book);
-            Console.WriteLine($"Added book: {book.Title}");
+            Console.WriteLine($"Book '{book.Title}' added to the library.");
         }
 
-        // Method to add a member
+        // Method to add a new member
         public void AddMember(Member member)
         {
             Members.Add(member);
-            Console.WriteLine($"Added member: {member.Name}");
+            Console.WriteLine($"Member '{member.Name}' added to the library.");
         }
 
         // Method to display library information
@@ -60,5 +58,24 @@ namespace Lab3_VoThienVu_CSE422.Models
             member.ReturnBook(book);
             book.CopiesAvailable++;
         }
+
+        public void BorrowBook(Book book, Member member)
+        {
+            // Create a new BorrowTransaction
+            var borrowTransaction = new BorrowTransaction(
+                transactionID: Guid.NewGuid().ToString(),
+                transactionDate: DateTime.Now,
+                member: member,
+                bookBorrowed: book
+            );
+
+            // Execute the borrow transaction (this will check availability and update the book count)
+            borrowTransaction.Execute();
+
+            // Trigger the event after a successful borrow
+            OnBookBorrowed?.Invoke(book, member);
+        }
+        // Method to add a new book
+
     }
 }
